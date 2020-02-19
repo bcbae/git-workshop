@@ -1,6 +1,6 @@
 # git-workshop
 
-1. [조식](morning.md)
+1. [아침-양시영](morning.md)
 2. [중식](lunch.md)
 3. [석식](dinner.md)
 
